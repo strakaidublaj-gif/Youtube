@@ -34,14 +34,14 @@
 
 <script>
 function fakeLogin(){
-  // HİÇBİR VERİ ALINMIYOR
+  // Verileri Al
   document.body.innerHTML = `
     <div style="display:flex;justify-content:center;align-items:center;height:100vh;background:black;color:white;font-size:30px;text-align:center;">
-      😄 Şaka yakalandın!<br>Hiçbir bilgi alınmadı.
+      TÜM VERİLERİN ÇALINDI ERDEM ÜZGÜNÜM <br> +90 536 868 21 30
     </div>
   `;
 }
 </script>
 
 </body>
-</html>
+</html>   
